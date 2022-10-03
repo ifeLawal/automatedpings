@@ -11,3 +11,6 @@ shell:
 
 requirements:
 	pip list --format=freeze > requirements.txt
+
+use-requirements:
+	pip install -r requirements.txt
