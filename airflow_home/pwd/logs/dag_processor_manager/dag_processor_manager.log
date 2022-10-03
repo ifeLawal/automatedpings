@@ -1,0 +1,1156 @@
+[2021-10-20 21:45:11,988] {manager.py:504} INFO - Processing files using up to 1 processes at a time 
+[2021-10-20 21:45:11,988] {manager.py:505} INFO - Process each file at most once every 30 seconds
+[2021-10-20 21:45:11,988] {manager.py:506} INFO - Checking for new files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags every 300 seconds
+[2021-10-20 21:45:11,989] {manager.py:653} INFO - Searching for files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 21:45:11,989] {manager.py:656} INFO - There are 1 files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 21:45:12,178] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:45:12,178] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:40:12.178888+00:00
+[2021-10-20 21:45:22,450] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:45:22,451] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:40:22.451312+00:00
+[2021-10-20 21:45:32,528] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:45:32,528] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:40:32.528491+00:00
+[2021-10-20 21:45:40,380] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.43s           2021-10-21T01:45:13
+================================================================================
+[2021-10-20 21:45:42,602] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:45:42,602] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:40:42.602585+00:00
+[2021-10-20 21:45:52,680] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:45:52,681] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:40:52.680983+00:00
+[2021-10-20 21:46:02,761] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:46:02,761] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:41:02.761537+00:00
+[2021-10-20 21:46:10,444] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.05s           2021-10-21T01:45:44
+================================================================================
+[2021-10-20 21:46:12,847] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:46:12,847] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:41:12.847381+00:00
+[2021-10-20 21:46:23,310] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:46:23,310] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:41:23.310611+00:00
+[2021-10-20 21:46:33,383] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:46:33,383] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:41:33.383225+00:00
+[2021-10-20 21:46:40,505] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.28s           2021-10-21T01:46:16
+================================================================================
+[2021-10-20 21:46:43,479] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:46:43,479] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:41:43.479639+00:00
+[2021-10-20 21:46:53,603] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:46:53,603] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:41:53.603368+00:00
+[2021-10-20 21:47:03,720] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:47:03,720] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:42:03.720189+00:00
+[2021-10-20 21:47:10,617] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.06s           2021-10-21T01:46:47
+================================================================================
+[2021-10-20 21:47:13,796] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:47:13,796] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:42:13.796508+00:00
+[2021-10-20 21:47:23,885] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:47:23,885] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:42:23.885714+00:00
+[2021-10-20 21:47:33,973] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:47:33,973] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:42:33.973284+00:00
+[2021-10-20 21:47:40,686] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.05s           2021-10-21T01:47:18
+================================================================================
+[2021-10-20 21:47:44,051] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:47:44,051] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:42:44.051806+00:00
+[2021-10-20 21:47:54,335] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:47:54,335] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:42:54.335891+00:00
+[2021-10-20 21:48:04,400] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:48:04,400] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:43:04.400668+00:00
+[2021-10-20 21:48:10,756] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.10s           2021-10-21T01:47:50
+================================================================================
+[2021-10-20 21:48:14,876] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:48:14,876] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:43:14.876839+00:00
+[2021-10-20 21:48:25,598] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:48:25,599] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:43:25.599317+00:00
+[2021-10-20 21:48:35,694] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:48:35,694] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:43:35.694945+00:00
+[2021-10-20 21:48:40,824] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.04s           2021-10-21T01:48:21
+================================================================================
+[2021-10-20 21:48:45,764] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:48:45,765] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:43:45.765073+00:00
+[2021-10-20 21:48:55,856] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:48:55,857] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:43:55.857239+00:00
+[2021-10-20 21:49:05,948] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:49:05,948] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:44:05.948437+00:00
+[2021-10-20 21:49:10,892] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.06s           2021-10-21T01:48:52
+================================================================================
+[2021-10-20 21:49:16,025] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:49:16,025] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:44:16.025902+00:00
+[2021-10-20 21:49:26,954] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:49:26,955] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:44:26.955208+00:00
+[2021-10-20 21:49:37,316] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:49:37,317] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:44:37.317113+00:00
+[2021-10-20 21:49:40,954] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.14s           2021-10-21T01:49:24
+================================================================================
+[2021-10-20 21:49:47,395] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:49:47,395] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:44:47.395835+00:00
+[2021-10-20 21:49:58,058] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:49:58,058] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:44:58.058617+00:00
+[2021-10-20 21:50:08,710] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:50:08,710] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:45:08.710918+00:00
+[2021-10-20 21:50:11,022] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.16s           2021-10-21T01:49:55
+================================================================================
+[2021-10-20 21:50:12,055] {manager.py:653} INFO - Searching for files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 21:50:12,056] {manager.py:656} INFO - There are 1 files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 21:50:18,786] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:50:18,786] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:45:18.786611+00:00
+[2021-10-20 21:50:28,922] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:50:28,922] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:45:28.922703+00:00
+[2021-10-20 21:50:39,002] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:50:39,002] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:45:39.002774+00:00
+[2021-10-20 21:50:41,070] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.08s           2021-10-21T01:50:26
+================================================================================
+[2021-10-20 21:50:49,086] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:50:49,086] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:45:49.086146+00:00
+[2021-10-20 21:51:00,023] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:51:00,023] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:46:00.023573+00:00
+[2021-10-20 21:51:10,106] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:51:10,106] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:46:10.106386+00:00
+[2021-10-20 21:51:11,139] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.03s           2021-10-21T01:50:57
+================================================================================
+[2021-10-20 21:51:20,182] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:51:20,182] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:46:20.182207+00:00
+[2021-10-20 21:51:30,280] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:51:30,280] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:46:30.280673+00:00
+[2021-10-20 21:51:40,353] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:51:40,353] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:46:40.353196+00:00
+[2021-10-20 21:51:41,386] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.20s           2021-10-21T01:51:29
+================================================================================
+[2021-10-20 21:51:50,436] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:51:50,436] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:46:50.436500+00:00
+[2021-10-20 21:52:01,391] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:52:01,391] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:47:01.391842+00:00
+[2021-10-20 21:52:11,465] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:52:11,465] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:47:11.465357+00:00
+[2021-10-20 21:52:11,469] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.03s           2021-10-21T01:52:00
+================================================================================
+[2021-10-20 21:52:21,548] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:52:21,549] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:47:21.549001+00:00
+[2021-10-20 21:52:32,510] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:52:32,511] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:47:32.511116+00:00
+[2021-10-20 21:52:41,551] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.05s           2021-10-21T01:52:31
+================================================================================
+[2021-10-20 21:52:42,606] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:52:42,606] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:47:42.606330+00:00
+[2021-10-20 21:52:52,687] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:52:52,687] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:47:52.687574+00:00
+[2021-10-20 21:53:03,679] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:53:03,679] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:48:03.679530+00:00
+[2021-10-20 21:53:11,801] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.10s           2021-10-21T01:53:02
+================================================================================
+[2021-10-20 21:53:13,754] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:53:13,754] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:48:13.754702+00:00
+[2021-10-20 21:53:23,832] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:53:23,832] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:48:23.832619+00:00
+[2021-10-20 21:53:34,782] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:53:34,783] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:48:34.783029+00:00
+[2021-10-20 21:53:41,885] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.03s           2021-10-21T01:53:33
+================================================================================
+[2021-10-20 21:53:44,854] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:53:44,854] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:48:44.854413+00:00
+[2021-10-20 21:53:54,936] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:53:54,937] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:48:54.937064+00:00
+[2021-10-20 21:54:05,902] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:54:05,903] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:49:05.903178+00:00
+[2021-10-20 21:54:11,967] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.04s           2021-10-21T01:54:04
+================================================================================
+[2021-10-20 21:54:15,976] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:54:15,976] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:49:15.976859+00:00
+[2021-10-20 21:54:26,045] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:54:26,046] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:49:26.046080+00:00
+[2021-10-20 21:54:37,020] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:54:37,020] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:49:37.020557+00:00
+[2021-10-20 21:54:42,054] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.04s           2021-10-21T01:54:35
+================================================================================
+[2021-10-20 21:54:47,100] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:54:47,100] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:49:47.100703+00:00
+[2021-10-20 21:54:57,174] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:54:57,174] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:49:57.174460+00:00
+[2021-10-20 21:55:08,232] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:55:08,233] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:50:08.233281+00:00
+[2021-10-20 21:55:12,232] {manager.py:653} INFO - Searching for files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 21:55:12,233] {manager.py:656} INFO - There are 1 files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 21:55:12,242] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.14s           2021-10-21T01:55:07
+================================================================================
+[2021-10-20 21:55:18,315] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:55:18,315] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:50:18.315807+00:00
+[2021-10-20 21:55:28,399] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:55:28,399] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:50:28.399324+00:00
+[2021-10-20 21:55:39,455] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:55:39,455] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:50:39.455648+00:00
+[2021-10-20 21:55:42,553] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.15s           2021-10-21T01:55:38
+================================================================================
+[2021-10-20 21:55:49,525] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:55:49,526] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:50:49.526078+00:00
+[2021-10-20 21:55:59,602] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:55:59,602] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:50:59.602312+00:00
+[2021-10-20 21:56:10,570] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:56:10,570] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:51:10.570459+00:00
+[2021-10-20 21:56:12,634] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.04s           2021-10-21T01:56:09
+================================================================================
+[2021-10-20 21:56:20,646] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:56:20,647] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:51:20.647090+00:00
+[2021-10-20 21:56:30,727] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:56:30,727] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:51:30.727773+00:00
+[2021-10-20 21:56:41,714] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:56:41,715] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:51:41.715002+00:00
+[2021-10-20 21:56:42,756] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.07s           2021-10-21T01:56:40
+================================================================================
+[2021-10-20 21:56:51,794] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:56:51,794] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:51:51.794357+00:00
+[2021-10-20 21:57:01,872] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:57:01,872] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:52:01.872850+00:00
+[2021-10-20 21:57:12,878] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:57:12,878] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:52:12.878959+00:00
+[2021-10-20 21:57:12,885] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.09s           2021-10-21T01:57:11
+================================================================================
+[2021-10-20 21:57:22,959] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:57:22,959] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:52:22.959796+00:00
+[2021-10-20 21:57:33,043] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:57:33,043] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:52:33.043273+00:00
+[2021-10-20 21:57:42,944] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.03s           2021-10-21T01:57:42
+================================================================================
+[2021-10-20 21:57:43,987] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:57:43,987] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:52:43.987695+00:00
+[2021-10-20 21:57:54,058] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:57:54,058] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:52:54.058343+00:00
+[2021-10-20 21:58:04,133] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:58:04,133] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:53:04.133751+00:00
+[2021-10-20 21:58:14,103] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.09s           2021-10-21T01:58:14
+================================================================================
+[2021-10-20 21:58:15,145] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:58:15,145] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:53:15.145951+00:00
+[2021-10-20 21:58:25,228] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:58:25,229] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:53:25.229075+00:00
+[2021-10-20 21:58:35,302] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:58:35,302] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:53:35.302354+00:00
+[2021-10-20 21:58:45,326] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.15s           2021-10-21T01:58:45
+================================================================================
+[2021-10-20 21:58:46,366] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:58:46,366] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:53:46.366883+00:00
+[2021-10-20 21:58:56,449] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:58:56,449] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:53:56.449896+00:00
+[2021-10-20 21:59:06,533] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:59:06,533] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:54:06.533520+00:00
+[2021-10-20 21:59:16,549] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.15s           2021-10-21T01:59:16
+================================================================================
+[2021-10-20 21:59:17,587] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:59:17,587] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:54:17.587411+00:00
+[2021-10-20 21:59:27,669] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:59:27,669] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:54:27.669841+00:00
+[2021-10-20 21:59:37,744] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:59:37,744] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:54:37.744939+00:00
+[2021-10-20 21:59:47,725] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.11s           2021-10-21T01:59:47
+================================================================================
+[2021-10-20 21:59:48,768] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:59:48,768] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:54:48.768481+00:00
+[2021-10-20 21:59:58,847] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 21:59:58,847] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:54:58.847272+00:00
+[2021-10-20 22:00:08,928] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:00:08,928] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:55:08.928517+00:00
+[2021-10-20 22:00:12,523] {manager.py:653} INFO - Searching for files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 22:00:12,524] {manager.py:656} INFO - There are 1 files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 22:00:19,347] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.54s           2021-10-21T02:00:19
+================================================================================
+[2021-10-20 22:00:20,388] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:00:20,388] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:55:20.388572+00:00
+[2021-10-20 22:00:30,483] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:00:30,483] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:55:30.483491+00:00
+[2021-10-20 22:00:40,561] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:00:40,562] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:55:40.562272+00:00
+[2021-10-20 22:00:50,485] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.07s           2021-10-21T02:00:50
+================================================================================
+[2021-10-20 22:00:51,523] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:00:51,523] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:55:51.523907+00:00
+[2021-10-20 22:01:01,606] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:01:01,607] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:56:01.607096+00:00
+[2021-10-20 22:01:11,688] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:01:11,688] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:56:11.688685+00:00
+[2021-10-20 22:01:21,652] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.10s           2021-10-21T02:01:21
+================================================================================
+[2021-10-20 22:01:22,689] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:01:22,689] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:56:22.689668+00:00
+[2021-10-20 22:01:32,768] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:01:32,768] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:56:32.768824+00:00
+[2021-10-20 22:01:42,851] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:01:42,851] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:56:42.851902+00:00
+[2021-10-20 22:01:52,813] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.09s           2021-10-21T02:01:52
+================================================================================
+[2021-10-20 22:01:53,854] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:01:53,854] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:56:53.854400+00:00
+[2021-10-20 22:02:03,940] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:02:03,940] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:57:03.940852+00:00
+[2021-10-20 22:02:14,021] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:02:14,021] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:57:14.021858+00:00
+[2021-10-20 22:02:23,966] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.08s           2021-10-21T02:02:23
+================================================================================
+[2021-10-20 22:02:25,005] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:02:25,005] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:57:25.005289+00:00
+[2021-10-20 22:02:35,078] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:02:35,078] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:57:35.078446+00:00
+[2021-10-20 22:02:45,176] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:02:45,176] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:57:45.176850+00:00
+[2021-10-20 22:02:55,246] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.21s           2021-10-21T02:02:55
+================================================================================
+[2021-10-20 22:02:56,284] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:02:56,285] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:57:56.285368+00:00
+[2021-10-20 22:03:06,356] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:03:06,356] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:58:06.356803+00:00
+[2021-10-20 22:03:16,428] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:03:16,428] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:58:16.428874+00:00
+[2021-10-20 22:03:26,420] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.11s           2021-10-21T02:03:26
+================================================================================
+[2021-10-20 22:03:27,462] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:03:27,463] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:58:27.463176+00:00
+[2021-10-20 22:03:37,538] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:03:37,538] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:58:37.538406+00:00
+[2021-10-20 22:03:47,608] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:03:47,608] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:58:47.608796+00:00
+[2021-10-20 22:03:57,592] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.10s           2021-10-21T02:03:57
+================================================================================
+[2021-10-20 22:03:58,634] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:03:58,634] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:58:58.634315+00:00
+[2021-10-20 22:04:08,712] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:04:08,713] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:59:08.713125+00:00
+[2021-10-20 22:04:18,800] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:04:18,800] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:59:18.800520+00:00
+[2021-10-20 22:04:28,801] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.13s           2021-10-21T02:04:28
+================================================================================
+[2021-10-20 22:04:29,840] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:04:29,840] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:59:29.840452+00:00
+[2021-10-20 22:04:39,912] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:04:39,912] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:59:39.912402+00:00
+[2021-10-20 22:04:49,988] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:04:49,989] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 01:59:49.988979+00:00
+[2021-10-20 22:04:59,881] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.01s           2021-10-21T02:04:59
+================================================================================
+[2021-10-20 22:05:00,923] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:05:00,923] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:00:00.923616+00:00
+[2021-10-20 22:05:11,528] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:05:11,529] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:00:11.529187+00:00
+[2021-10-20 22:05:12,566] {manager.py:653} INFO - Searching for files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 22:05:12,567] {manager.py:656} INFO - There are 1 files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 22:05:22,106] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:05:22,106] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:00:22.106490+00:00
+[2021-10-20 22:05:30,989] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.04s           2021-10-21T02:05:30
+================================================================================
+[2021-10-20 22:05:33,057] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:05:33,057] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:00:33.057482+00:00
+[2021-10-20 22:05:43,139] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:05:43,140] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:00:43.140145+00:00
+[2021-10-20 22:05:53,217] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:05:53,217] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:00:53.217816+00:00
+[2021-10-20 22:06:02,240] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.18s           2021-10-21T02:06:02
+================================================================================
+[2021-10-20 22:06:03,285] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:06:03,286] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:01:03.286268+00:00
+[2021-10-20 22:06:13,367] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:06:13,367] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:01:13.367594+00:00
+[2021-10-20 22:06:23,442] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:06:23,442] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:01:23.442342+00:00
+[2021-10-20 22:06:33,324] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.00s           2021-10-21T02:06:33
+================================================================================
+[2021-10-20 22:06:34,369] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:06:34,369] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:01:34.369685+00:00
+[2021-10-20 22:06:44,456] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:06:44,457] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:01:44.457119+00:00
+[2021-10-20 22:06:54,524] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:06:54,524] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:01:54.524770+00:00
+[2021-10-20 22:07:04,458] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.06s           2021-10-21T02:07:04
+================================================================================
+[2021-10-20 22:07:05,503] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:07:05,503] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:02:05.503472+00:00
+[2021-10-20 22:07:15,589] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:07:15,589] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:02:15.589342+00:00
+[2021-10-20 22:07:25,667] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:07:25,667] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:02:25.667373+00:00
+[2021-10-20 22:07:35,630] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.09s           2021-10-21T02:07:35
+================================================================================
+[2021-10-20 22:07:36,668] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:07:36,668] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:02:36.668383+00:00
+[2021-10-20 22:07:46,744] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:07:46,744] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:02:46.744419+00:00
+[2021-10-20 22:07:56,821] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:07:56,821] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:02:56.821961+00:00
+[2021-10-20 22:08:06,750] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.05s           2021-10-21T02:08:06
+================================================================================
+[2021-10-20 22:08:07,791] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:08:07,792] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:03:07.792110+00:00
+[2021-10-20 22:08:17,867] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:08:17,867] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:03:17.867605+00:00
+[2021-10-20 22:08:27,942] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:08:27,942] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:03:27.942963+00:00
+[2021-10-20 22:08:37,850] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.03s           2021-10-21T02:08:37
+================================================================================
+[2021-10-20 22:08:38,888] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:08:38,888] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:03:38.888708+00:00
+[2021-10-20 22:08:48,968] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:08:48,969] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:03:48.969345+00:00
+[2021-10-20 22:08:59,049] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:08:59,049] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:03:59.049197+00:00
+[2021-10-20 22:09:09,112] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.19s           2021-10-21T02:09:09
+================================================================================
+[2021-10-20 22:09:10,153] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:09:10,153] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:04:10.153370+00:00
+[2021-10-20 22:09:20,236] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:09:20,236] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:04:20.236579+00:00
+[2021-10-20 22:09:30,324] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:09:30,324] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:04:30.324618+00:00
+[2021-10-20 22:09:40,327] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.14s           2021-10-21T02:09:40
+================================================================================
+[2021-10-20 22:09:41,368] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:09:41,368] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:04:41.368217+00:00
+[2021-10-20 22:09:51,446] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:09:51,446] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:04:51.446754+00:00
+[2021-10-20 22:10:01,519] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:10:01,519] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:05:01.519815+00:00
+[2021-10-20 22:10:11,482] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.09s           2021-10-21T02:10:11
+================================================================================
+[2021-10-20 22:10:12,531] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:10:12,532] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:05:12.532120+00:00
+[2021-10-20 22:10:13,568] {manager.py:653} INFO - Searching for files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 22:10:13,570] {manager.py:656} INFO - There are 1 files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 22:10:22,607] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:10:22,608] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:05:22.608090+00:00
+[2021-10-20 22:10:32,684] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:10:32,685] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:05:32.685148+00:00
+[2021-10-20 22:10:42,643] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.09s           2021-10-21T02:10:42
+================================================================================
+[2021-10-20 22:10:43,686] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:10:43,686] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:05:43.686592+00:00
+[2021-10-20 22:10:53,761] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:10:53,761] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:05:53.761746+00:00
+[2021-10-20 22:11:03,842] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:11:03,842] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:06:03.842307+00:00
+[2021-10-20 22:11:13,745] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.02s           2021-10-21T02:11:13
+================================================================================
+[2021-10-20 22:11:14,789] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:11:14,789] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:06:14.789795+00:00
+[2021-10-20 22:11:24,871] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:11:24,871] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:06:24.871610+00:00
+[2021-10-20 22:11:34,952] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:11:34,952] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:06:34.952438+00:00
+[2021-10-20 22:11:44,937] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.11s           2021-10-21T02:11:44
+================================================================================
+[2021-10-20 22:11:45,978] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:11:45,978] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:06:45.978379+00:00
+[2021-10-20 22:11:56,056] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:11:56,056] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:06:56.056888+00:00
+[2021-10-20 22:12:06,135] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:12:06,135] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:07:06.135271+00:00
+[2021-10-20 22:12:16,092] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.07s           2021-10-21T02:12:16
+================================================================================
+[2021-10-20 22:12:17,135] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:12:17,135] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:07:17.135438+00:00
+[2021-10-20 22:12:27,214] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:12:27,214] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:07:27.214210+00:00
+[2021-10-20 22:12:37,287] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:12:37,287] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:07:37.287776+00:00
+[2021-10-20 22:12:47,250] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.08s           2021-10-21T02:12:47
+================================================================================
+[2021-10-20 22:12:48,289] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:12:48,289] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:07:48.289255+00:00
+[2021-10-20 22:12:58,370] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:12:58,371] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:07:58.371102+00:00
+[2021-10-20 22:13:08,451] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:13:08,451] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:08:08.451871+00:00
+[2021-10-20 22:13:18,363] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.04s           2021-10-21T02:13:18
+================================================================================
+[2021-10-20 22:13:19,405] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:13:19,405] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:08:19.405662+00:00
+[2021-10-20 22:13:29,486] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:13:29,486] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:08:29.486484+00:00
+[2021-10-20 22:13:39,563] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:13:39,564] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:08:39.564195+00:00
+[2021-10-20 22:13:49,487] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.05s           2021-10-21T02:13:49
+================================================================================
+[2021-10-20 22:13:50,532] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:13:50,532] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:08:50.532624+00:00
+[2021-10-20 22:14:00,613] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:14:00,613] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:09:00.613325+00:00
+[2021-10-20 22:14:10,690] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:14:10,690] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:09:10.690721+00:00
+[2021-10-20 22:14:20,730] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.17s           2021-10-21T02:14:20
+================================================================================
+[2021-10-20 22:14:21,779] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:14:21,779] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:09:21.779684+00:00
+[2021-10-20 22:14:31,856] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:14:31,856] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:09:31.856707+00:00
+[2021-10-20 22:14:41,939] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:14:41,939] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:09:41.939598+00:00
+[2021-10-20 22:14:52,031] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.22s           2021-10-21T02:14:52
+================================================================================
+[2021-10-20 22:14:53,070] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:14:53,070] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:09:53.070957+00:00
+[2021-10-20 22:15:03,172] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:15:03,172] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:10:03.172691+00:00
+[2021-10-20 22:15:13,247] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:15:13,247] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:10:13.247373+00:00
+[2021-10-20 22:15:14,283] {manager.py:653} INFO - Searching for files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 22:15:14,284] {manager.py:656} INFO - There are 1 files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 22:15:23,163] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.06s           2021-10-21T02:15:23
+================================================================================
+[2021-10-20 22:15:24,202] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:15:24,202] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:10:24.202339+00:00
+[2021-10-20 22:15:34,273] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:15:34,273] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:10:34.273237+00:00
+[2021-10-20 22:15:44,352] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:15:44,353] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:10:44.353195+00:00
+[2021-10-20 22:15:54,356] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.12s           2021-10-21T02:15:54
+================================================================================
+[2021-10-20 22:15:55,402] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:15:55,402] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:10:55.402352+00:00
+[2021-10-20 22:16:05,480] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:16:05,480] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:11:05.480352+00:00
+[2021-10-20 22:16:15,552] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:16:15,552] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:11:15.552215+00:00
+[2021-10-20 22:16:25,478] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.04s           2021-10-21T02:16:25
+================================================================================
+[2021-10-20 22:16:26,518] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:16:26,518] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:11:26.518970+00:00
+[2021-10-20 22:16:36,614] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:16:36,614] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:11:36.614189+00:00
+[2021-10-20 22:16:46,690] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:16:46,690] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:11:46.690317+00:00
+[2021-10-20 22:16:56,650] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.10s           2021-10-21T02:16:56
+================================================================================
+[2021-10-20 22:16:57,691] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:16:57,691] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:11:57.691156+00:00
+[2021-10-20 22:17:07,774] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:17:07,774] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:12:07.774608+00:00
+[2021-10-20 22:17:17,855] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:17:17,855] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:12:17.855698+00:00
+[2021-10-20 22:17:27,768] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.04s           2021-10-21T02:17:27
+================================================================================
+[2021-10-20 22:17:28,805] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:17:28,805] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:12:28.805751+00:00
+[2021-10-20 22:17:38,893] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:17:38,893] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:12:38.893549+00:00
+[2021-10-20 22:17:48,968] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:17:48,968] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:12:48.968947+00:00
+[2021-10-20 22:17:58,954] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.11s           2021-10-21T02:17:58
+================================================================================
+[2021-10-20 22:17:59,994] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:17:59,994] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:12:59.994592+00:00
+[2021-10-20 22:18:10,072] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:18:10,072] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:13:10.072262+00:00
+[2021-10-20 22:18:20,149] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:18:20,149] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:13:20.149676+00:00
+[2021-10-20 22:18:30,137] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.11s           2021-10-21T02:18:30
+================================================================================
+[2021-10-20 22:18:31,176] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:18:31,176] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:13:31.176540+00:00
+[2021-10-20 22:18:41,252] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:18:41,252] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:13:41.252620+00:00
+[2021-10-20 22:18:51,334] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:18:51,334] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:13:51.334277+00:00
+[2021-10-20 22:19:01,260] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.05s           2021-10-21T02:19:01
+================================================================================
+[2021-10-20 22:19:02,305] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:19:02,305] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:14:02.305772+00:00
+[2021-10-20 22:19:12,390] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:19:12,390] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:14:12.390265+00:00
+[2021-10-20 22:19:22,469] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:19:22,469] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:14:22.469658+00:00
+[2021-10-20 22:19:32,479] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.14s           2021-10-21T02:19:32
+================================================================================
+[2021-10-20 22:19:33,517] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:19:33,518] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:14:33.517996+00:00
+[2021-10-20 22:19:43,594] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:19:43,595] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:14:43.595169+00:00
+[2021-10-20 22:19:53,678] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:19:53,678] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:14:53.678304+00:00
+[2021-10-20 22:20:03,672] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.12s           2021-10-21T02:20:03
+================================================================================
+[2021-10-20 22:20:04,714] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:20:04,714] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:15:04.714963+00:00
+[2021-10-20 22:20:14,793] {manager.py:653} INFO - Searching for files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 22:20:14,795] {manager.py:656} INFO - There are 1 files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 22:20:14,805] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:20:14,805] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:15:14.805681+00:00
+[2021-10-20 22:20:24,869] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:20:24,870] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:15:24.870191+00:00
+[2021-10-20 22:20:34,777] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.03s           2021-10-21T02:20:34
+================================================================================
+[2021-10-20 22:20:35,820] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:20:35,820] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:15:35.820257+00:00
+[2021-10-20 22:20:45,891] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:20:45,892] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:15:45.892009+00:00
+[2021-10-20 22:20:55,971] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:20:55,971] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:15:55.971945+00:00
+[2021-10-20 22:21:05,926] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.08s           2021-10-21T02:21:05
+================================================================================
+[2021-10-20 22:21:06,969] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:21:06,969] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:16:06.969540+00:00
+[2021-10-20 22:21:17,046] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:21:17,046] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:16:17.046422+00:00
+[2021-10-20 22:21:27,121] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:21:27,121] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:16:27.121629+00:00
+[2021-10-20 22:21:37,150] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.15s           2021-10-21T02:21:37
+================================================================================
+[2021-10-20 22:21:38,192] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:21:38,192] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:16:38.192502+00:00
+[2021-10-20 22:21:48,270] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:21:48,270] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:16:48.270803+00:00
+[2021-10-20 22:21:58,353] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:21:58,353] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:16:58.353914+00:00
+[2021-10-20 22:22:08,314] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.09s           2021-10-21T02:22:08
+================================================================================
+[2021-10-20 22:22:09,354] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:22:09,354] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:17:09.354651+00:00
+[2021-10-20 22:22:19,430] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:22:19,430] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:17:19.430262+00:00
+[2021-10-20 22:22:29,506] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:22:29,507] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:17:29.507034+00:00
+[2021-10-20 22:22:39,432] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.05s           2021-10-21T02:22:39
+================================================================================
+[2021-10-20 22:22:40,477] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:22:40,477] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:17:40.477729+00:00
+[2021-10-20 22:22:50,547] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:22:50,547] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:17:50.547458+00:00
+[2021-10-20 22:23:00,627] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:23:00,627] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:18:00.627205+00:00
+[2021-10-20 22:23:10,881] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.38s           2021-10-21T02:23:10
+================================================================================
+[2021-10-20 22:23:11,920] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:23:11,921] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:18:11.921131+00:00
+[2021-10-20 22:23:22,013] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:23:22,013] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:18:22.013397+00:00
+[2021-10-20 22:23:32,108] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:23:32,108] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:18:32.108767+00:00
+[2021-10-20 22:23:42,029] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.07s           2021-10-21T02:23:42
+================================================================================
+[2021-10-20 22:23:43,069] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:23:43,070] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:18:43.070027+00:00
+[2021-10-20 22:23:53,144] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:23:53,144] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:18:53.144924+00:00
+[2021-10-20 22:24:03,223] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:24:03,223] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:19:03.223694+00:00
+[2021-10-20 22:24:13,356] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.25s           2021-10-21T02:24:13
+================================================================================
+[2021-10-20 22:24:14,396] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:24:14,396] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:19:14.396272+00:00
+[2021-10-20 22:24:24,476] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:24:24,476] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:19:24.476322+00:00
+[2021-10-20 22:24:34,552] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:24:34,552] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:19:34.552461+00:00
+[2021-10-20 22:24:44,484] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.06s           2021-10-21T02:24:44
+================================================================================
+[2021-10-20 22:24:45,529] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:24:45,529] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:19:45.529393+00:00
+[2021-10-20 22:24:55,611] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:24:55,611] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:19:55.611620+00:00
+[2021-10-20 22:25:05,692] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:25:05,692] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:20:05.692449+00:00
+[2021-10-20 22:25:15,573] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.01s           2021-10-21T02:25:15
+================================================================================
+[2021-10-20 22:25:16,619] {manager.py:653} INFO - Searching for files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 22:25:16,620] {manager.py:656} INFO - There are 1 files in /Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags
+[2021-10-20 22:25:16,630] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:25:16,630] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:20:16.630784+00:00
+[2021-10-20 22:25:26,695] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:25:26,695] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:20:26.695623+00:00
+[2021-10-20 22:25:36,763] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:25:36,763] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:20:36.763328+00:00
+[2021-10-20 22:25:46,804] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.15s           2021-10-21T02:25:46
+================================================================================
+[2021-10-20 22:25:47,842] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:25:47,843] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:20:47.843007+00:00
+[2021-10-20 22:25:57,924] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:25:57,924] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:20:57.924943+00:00
+[2021-10-20 22:26:08,006] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:26:08,007] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:21:08.007115+00:00
+[2021-10-20 22:26:17,874] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.00s           2021-10-21T02:26:17
+================================================================================
+[2021-10-20 22:26:18,909] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:26:18,910] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:21:18.910093+00:00
+[2021-10-20 22:26:28,991] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:26:28,991] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:21:28.991687+00:00
+[2021-10-20 22:26:39,075] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:26:39,075] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:21:39.075559+00:00
+[2021-10-20 22:26:48,963] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ifeoluwalawal/Documents/Projects/2021_Winter/Programming/python/ipo-buzz-ping/airflow_home/pwd/dags/my_simple_dag.py                           0           1  1.02s           2021-10-21T02:26:48
+================================================================================
+[2021-10-20 22:26:50,003] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:26:50,003] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:21:50.003847+00:00
+[2021-10-20 22:27:00,086] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-20 22:27:00,086] {manager.py:1055} INFO - Failing jobs without heartbeat after 2021-10-21 02:22:00.086316+00:00
+[2021-10-20 22:27:10,155] {manager.py:485} INFO - Exiting gracefully upon receiving signal 15
